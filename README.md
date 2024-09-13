@@ -8,3 +8,4 @@
 - 📫 How to reach me: 8 800 555 35 35
 - ⚡ Fun fact: one day I will edit this place better (maybe...(I hope...))
 
+![](https://tenor.com/ru/view/kitty-kitten-lazy-pet-me-gif-7245759)
