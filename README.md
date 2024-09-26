@@ -12,5 +12,3 @@
   <img src="https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/4ec1c15b56da55a5e127b0b26a48303937794bc521609ad2301dbf6010d63d87.gif" width="500"/>
 </div>
 
-
-![](https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/4ec1c15b56da55a5e127b0b26a48303937794bc521609ad2301dbf6010d63d87.gif)
